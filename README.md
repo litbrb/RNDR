@@ -9,4 +9,4 @@ Put the `rndr.c` and `rndr.h` files in the directory of your `main.c`, and to co
 
 ## Features
 
-`drawLine(x1, y1, x2, y2) - Draws a black line between the points x1,y1 and x2,y2.`
+`drawLine(x1, y1, x2, y2)` - Draws a black line between the points x1,y1 and x2,y2.
